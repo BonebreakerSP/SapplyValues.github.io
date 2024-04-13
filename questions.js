@@ -1,5 +1,5 @@
 questions =  [
-    {"id": 0, "question": "Freedom of business is the best practical way a society can prosper.", "effects": {"right": 1}},
+    {"id": 0, "question": "Business regulations should be reduced.", "effects": {"right": 1}},
     {"id": 1, "question": "Charity is a better way of helping those in need than social welfare.", "effects": {"right": 1}},
     {"id": 2, "question": "Wages are always fair, as employers know best what a worker's labour is worth.", "effects": {"right": 1}},
     {"id": 3, "question": "It is \"human nature\" to be greedy.", "effects": {"right": 1}},
@@ -8,7 +8,7 @@ questions =  [
     {"id": 6, "question": "Taxation of the wealthy is a bad idea, society would be better off without it.", "effects": {"right": 1}},
     {"id": 7, "question": "The harder you work, the more you progress up the social ladder.", "effects": {"right": 1}},
     {"id": 8, "question": "Organisations and corporations cannot be trusted and need to be regulated by the government.", "effects": {"right": -1}},
-    {"id": 9, "question": "A government that provides for everyone is an inherently good idea.", "effects": {"right": -1}},
+    {"id": 9, "question": "A universal basic income administered by the government is a good idea.", "effects": {"right": -1}},
     {"id": 10, "question": "The current welfare system should be expanded to further combat inequality.", "effects": {"right": -1}},
     {"id": 11, "question": "Land should not be a commodity to be bought and sold.", "effects": {"right": -1}},
     {"id": 12, "question": "All industry and the bank should be nationalised.", "effects": {"right": -1}},
