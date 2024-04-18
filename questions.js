@@ -36,6 +36,6 @@ questions =  [
     {"id": 34, "question": "The government should not recognize gay marriage.", "effects": {"prog": -1, "auth": 1}},
     {"id": 35, "question": "The government should not recognize gender transitions.", "effects": {"prog": -1, "auth": 1}},
     {"id": 36, "question": "The government should ban drugs.", "effects": {"prog": -1, "auth": 1}},
-    {"id": 37, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 1}}
+    {"id": 37, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 1}},
     {"id": 38, "question": "The government should restrict or ban gun usage.", "effects": {"auth": 1}}
 ];
