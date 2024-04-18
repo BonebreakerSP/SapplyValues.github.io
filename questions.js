@@ -12,7 +12,7 @@ questions =  [
     {"id": 10, "question": "Strength is necessary for any government to succeed.", "effects": {"auth": 1}},
     {"id": 11, "question": "Only the government can fairly and effectively regulate organisations.", "effects": {"auth": 1}},
     {"id": 12, "question": "Society requires structure and bureaucracy in order to function.", "effects": {"auth": 1}},
-    {"id": 13, "question": "Mandatory IDs should be used to ensure public safety.", "effects": {"auth": 1}},
+    {"id": 13, "question": "Mandatory IDs should be used by the goverment to ensure public safety.", "effects": {"auth": 1}},
     {"id": 14, "question": "In times of crisis, safety becomes more important than civil liberties.", "effects": {"auth": 1}},
     {"id": 15, "question": "The government should be less involved in the day to day life of its citizens.", "effects": {"auth": -1}},
     {"id": 16, "question": "Monarchical governments are better than democratic governments.", "effects": {"auth": -1}},
