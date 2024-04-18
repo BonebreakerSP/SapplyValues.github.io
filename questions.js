@@ -37,5 +37,7 @@ questions =  [
     {"id": 35, "question": "The government should not recognize gay marriage.", "effects": {"prog": -1, "auth": 1}},
     {"id": 36, "question": "The government should not recognize gender transitions.", "effects": {"prog": -1, "auth": 1}},
     {"id": 37, "question": "The government should ban drugs.", "effects": {"prog": -1, "auth": 1}},
-    {"id": 38, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 1}},
+    {"id": 38, "question": "The government should punish whistleblowers who leak confidential government information.", "effects": {"auth": 1}},
+    {"id": 39, "question": "The government should enforce a system of racial hierarchy such as segregation or apartheid.", "effects": {"prog": -1, "auth": 1}},
+    {"id": 40, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 1}},
 ];
