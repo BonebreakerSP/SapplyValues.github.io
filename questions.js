@@ -32,3 +32,4 @@ questions =  [
     {"id": 30, "question": "The government should not recognize gender transitions.", "effects": {"prog": -1}},
     {"id": 31, "question": "The government should ban drugs.", "effects": {"prog": -1}},
     {"id": 32, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 1}}
+];
