@@ -31,7 +31,7 @@ questions =  [
     {"id": 29, "question": "The government should allow freedom of religion.", "effects": {"prog": 1, "auth": -1}},
     {"id": 30, "question": "The government should allow nudism in public.", "effects": {"prog": 1, "auth": -1}},
     {"id": 31, "question": "The government should recognize certain animal rights.", "effects": {"prog": 1, "auth": -1}},
-    {"id": 32, "question": "Abortion should be restricted or banned by the government.", "effects": {"prog": -1}},
+    {"id": 32, "question": "Abortion should be restricted or banned by the government.", "effects": {"prog": -1, "auth": 1}},
     {"id": 33, "question": "The government should allow children to do whatever with their bodies, such as undergoing puberty blockers, hormone treatments, tattoos, piercings, or plastic surgery.", "effects": {"prog": 1}},
     {"id": 34, "question": "The government should not recognize gay marriage.", "effects": {"prog": -1, "auth": 1}},
     {"id": 35, "question": "The government should not recognize gender transitions.", "effects": {"prog": -1, "auth": 1}},
