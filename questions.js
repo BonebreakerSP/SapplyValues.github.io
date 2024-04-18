@@ -1,7 +1,7 @@
 questions =  [
     {"id": 0, "question": "The government should reduce business regulations.", "effects": {"right": 1}},
     {"id": 1, "question": "The government should increase the minimum wage to help workers earn more to offset living costs.", "effects": {"right": 1}},
-    {"id": 2, "question": "Communism is an ideal that can never work in practice.", "effects": {"right": 1}},
+    {"id": 2, "question": "The ideal form of society is one without government, currency, social classes, and private property.", "effects": {"right": 1}},
     {"id": 3, "question": "The government should tax the wealthy to reduce inequality.", "effects": {"right": 1}},
     {"id": 4, "question": "A universal basic income administered by the government is a good idea.", "effects": {"right": -1}},
     {"id": 5, "question": "The current welfare system  should be expanded by the government to further combat inequality.", "effects": {"right": -1}},
