@@ -27,7 +27,7 @@ questions =  [
     {"id": 25, "question": "A violent revolution should be enacted to overthrow an existing government to being about radical and progressive changes to society.", "effects": {"right": -3}},
     {"id": 26, "question": "Criminals should be given the right to a fair trial by the government.", "effects": {"auth": -1}},
     {"id": 27, "question": "The government should provide emergency services and law enforcement.", "effects": {"auth": 1}},
-    {"id": 28, "question": "The government should get rid of police.", "effects": {"auth": -1}},
+    {"id": 28, "question": "The government should get rid of police.", "effects": {"auth": -3}},
     {"id": 29, "question": "Government owned schools are a bad idea because our government shouldn't be influencing our children.", "effects": {"auth": -1, "right": 1}},
     {"id": 30, "question": "The government should allow two consenting individuals to be able to do whatever sexual act they desire with each other in the privacy of their own bedroom.", "effects": {"prog": 1, "auth": -1}},
     {"id": 31, "question": "The government should allow an individual to be able to do anything they desire to their own body.", "effects": {"prog": 1, "auth": -1}},
@@ -51,4 +51,5 @@ questions =  [
     {"id": 49, "question": "Labour or concentration camps should be enforced by the government as a form of punishment.", "effects": {"auth": 3}},
     {"id": 50, "question": "The government should have an informant system so that any anti government activities are punished.", "effects": {"auth": 3}},
     {"id": 51, "question": "The government should recognize the right to protest.", "effects": {"auth": -1}}
-];
+    {"id": 52, "question": "The government should allow citizens the right to vote in yearly referendums on policy issues.", "effects": {"auth": -1}}
+];t
