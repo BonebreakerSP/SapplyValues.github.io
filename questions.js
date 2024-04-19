@@ -9,7 +9,7 @@ questions =  [
     {"id": 7, "question": "Banks should be government owned.", "effects": {"right": -1, "auth": 1}},
     {"id": 8, "question": "Utilities, like water and electricity should be government owned.", "effects": {"right": -2, "auth": 1}},
     {"id": 9, "question": "Prisons should be government owned and not privately owned.", "effects": {"right": -2, "auth": 1}},
-    {"id": 10, "question": "Pharmacies should be government owned to reduce drug costs., "effects": {"right": -2, "auth": 1}},
+    {"id": 10, "question": "Pharmacies should be government owned to reduce drug costs.", "effects": {"right": -2, "auth": 1}},
     {"id": 11, "question": "A flat tax should fund government services.", "effects": {"right": 1}},
     {"id": 12, "question": "Progressive taxation should fund government services.", "effects": {"right": -1}},
     {"id": 13, "question": "The government should provide tax funded preschool.", "effects": {"right": -1, "auth": 1}},
