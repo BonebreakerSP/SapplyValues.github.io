@@ -1,7 +1,7 @@
 questions =  [
     {"id": 0, "question": "The government should reduce business regulations.", "effects": {"right": 1, "auth": -1}},
     {"id": 1, "question": "The government should increase the minimum wage to help workers earn more to offset living costs.", "effects": {"right": -1, "auth": 1}},
-    {"id": 2, "question": "The ideal form of society is one without government, money, social classes, and private property.", "effects": {"right": -1}},
+    {"id": 2, "question": "The ideal form of society is one without government, money, social classes, and private property.", "effects": {"right": -3}},
     {"id": 3, "question": "The government should tax the wealthy to reduce inequality.", "effects": {"right": -1, "auth": 1}},
     {"id": 4, "question": "A universal basic income administered by the government is a good idea.", "effects": {"right": -1}},
     {"id": 5, "question": "The current welfare system  should be expanded by the government to further combat inequality.", "effects": {"right": -1}},
@@ -43,7 +43,7 @@ questions =  [
     {"id": 41, "question": "The government should ban or restrict immigration.", "effects": {"auth": 1}},
     {"id": 42, "question": "The government should prosecute hate speech against minorities.", "effects": {"auth": 1}},
     {"id": 43, "question": "The government should punish whistleblowers who leak confidential government information.", "effects": {"auth": 1}},
-    {"id": 44, "question": "The government should enforce a system of racial hierarchy such as segregation, apartheid, or slavery.", "effects": {"prog": -1, "auth": 1}},
+    {"id": 44, "question": "The government should enforce a system of racial hierarchy such as segregation, apartheid, or slavery.", "effects": {"prog": -3, "auth": 3}},
     {"id": 45, "question": "The government should enforce a system of political, social, and economic hierarchy where the lowest class is owned and dependent on a higher class and required to work for them, with the ruling class being a monarch who heads the system.", "effects": {"auth": 1, "right": 1}},
     {"id": 46, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 1}}
 ];
