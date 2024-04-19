@@ -15,7 +15,7 @@ questions =  [
     {"id": 13, "question": "The government should provide tax funded college.", "effects": {"right": -1, "auth": 1}},
     {"id": 14, "question": "The government should provide tax funded healthcare.", "effects": {"right": -1, "auth": 1}},
     {"id": 15, "question": "The government should mandate business profits be shared with workers.", "effects": {"right": -1, "auth": 1}},
-    {"id": 16, "question": "The government should mandate businesses give workers stock ownership.", "effects": {"right": -1, "auth": 1}},
+    {"id": 16, "question": "The government should mandate businesses give workers stock ownership.", "effects": {"right": -2, "auth": 1}},
     {"id": 17, "question": "The government should assist in the formation of worker cooperatives.", "effects": {"right": -2, "auth": 1}},
     {"id": 18, "question": "The government should mandate schools provide free lunches.", "effects": {"right": -1, "auth": 1}},
     {"id": 19, "question": "Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.", "effects": {"auth": 1}},
