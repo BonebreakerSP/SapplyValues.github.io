@@ -40,5 +40,6 @@ questions =  [
     {"id": 38, "question": "The government should ban drugs.", "effects": {"prog": -1, "auth": 1}},
     {"id": 39, "question": "The government should punish whistleblowers who leak confidential government information.", "effects": {"auth": 1}},
     {"id": 40, "question": "The government should enforce a system of racial hierarchy such as segregation, apartheid, or slavery.", "effects": {"prog": -1, "auth": 1}},
-    {"id": 41, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 1}}
+    {"id": 41, "question": "The government should enforce a system of political, social, and economic hierarchy where the lowest class is owned and dependent on a higher class and required to work for them, with the ruling class being a monarch who heads the system.", "effects": {"auth": 1, "right": 1}},
+    {"id": 42, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 1}}
 ];
