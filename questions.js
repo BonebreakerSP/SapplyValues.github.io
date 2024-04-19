@@ -52,4 +52,4 @@ questions =  [
     {"id": 50, "question": "The government should have an informant system so that any anti government activities are punished.", "effects": {"auth": 3}},
     {"id": 51, "question": "The government should recognize the right to protest.", "effects": {"auth": -1}},
     {"id": 52, "question": "The government should allow citizens the right to vote in yearly referendums on policy issues.", "effects": {"auth": -1}}
-];t
+];
