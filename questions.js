@@ -35,11 +35,13 @@ questions =  [
     {"id": 33, "question": "The government should recognize certain animal rights.", "effects": {"prog": 1, "auth": -1}},
     {"id": 34, "question": "Abortion should be restricted or banned by the government.", "effects": {"prog": -1, "auth": 1}},
     {"id": 35, "question": "The government should allow children to do whatever with their bodies, such as undergoing puberty blockers, hormone treatments, tattoos, piercings, or plastic surgery.", "effects": {"prog": 1}},
-    {"id": 36, "question": "The government should not recognize gay marriage.", "effects": {"prog": -1, "auth": 1}},
-    {"id": 37, "question": "The government should not recognize gender transitions.", "effects": {"prog": -1, "auth": 1}},
-    {"id": 38, "question": "The government should ban drugs.", "effects": {"prog": -1, "auth": 1}},
-    {"id": 39, "question": "The government should punish whistleblowers who leak confidential government information.", "effects": {"auth": 1}},
-    {"id": 40, "question": "The government should enforce a system of racial hierarchy such as segregation, apartheid, or slavery.", "effects": {"prog": -1, "auth": 1}},
-    {"id": 41, "question": "The government should enforce a system of political, social, and economic hierarchy where the lowest class is owned and dependent on a higher class and required to work for them, with the ruling class being a monarch who heads the system.", "effects": {"auth": 1, "right": 1}},
-    {"id": 42, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 1}}
+    {"id": 36, "question": "The government should ban gay marriage.", "effects": {"prog": -1, "auth": 1}},
+    {"id": 37, "question": "The government should not be involved in any and all marriages regardless if they are gay or straight ones.", "effects": {"auth": -1}},
+    {"id": 38, "question": "The government should not allow the changing of someone's legal gender to a different one on their birth certificate.", "effects": {"prog": -1, "auth": 1}},
+    {"id": 39, "question": "The government should ban or restrict drugs.", "effects": {"prog": -1, "auth": 1}},
+    {"id": 40, "question": "The government should ban or restrict guns.", "effects": {"prog": -1, "auth": 1}},
+    {"id": 41, "question": "The government should punish whistleblowers who leak confidential government information.", "effects": {"auth": 1}},
+    {"id": 42, "question": "The government should enforce a system of racial hierarchy such as segregation, apartheid, or slavery.", "effects": {"prog": -1, "auth": 1}},
+    {"id": 43, "question": "The government should enforce a system of political, social, and economic hierarchy where the lowest class is owned and dependent on a higher class and required to work for them, with the ruling class being a monarch who heads the system.", "effects": {"auth": 1, "right": 1}},
+    {"id": 44, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 1}}
 ];
