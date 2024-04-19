@@ -19,11 +19,11 @@ questions =  [
     {"id": 17, "question": "Sometimes it is right that the government may spy on its citizens to combat extremists and terrorists.", "effects": {"auth": 1}},
     {"id": 18, "question": "Strength is necessary for any government to succeed.", "effects": {"auth": 1}},
     {"id": 19, "question": "Only the government can fairly and effectively regulate organisations.", "effects": {"auth": 1}},
-    {"id": 20,"question": "Mandatory IDs should be used by the goverment to ensure public safety.", "effects": {"auth": 1}},
+    {"id": 20, "question":  "Mandatory IDs should be used by the goverment to ensure public safety.", "effects": {"auth": 1}},
     {"id": 21, "question": "When a pandemic happens, the government should institute mask and vaccine mandates.", "effects": {"auth": 1}},
     {"id": 22, "question": "The government should be less involved in the day to day life of its citizens.", "effects": {"auth": -1}},
     {"id": 23, "question": "Monarchical governments are better than democratic governments.", "effects": {"auth": 1, "right": 1}},
-    {"id": 24, "question": "A violent revolution should be enacted to overthrow an existing government to being about radical and progressive changes to society.": {"right": -1}},
+    {"id": 24, "question": "A violent revolution should be enacted to overthrow an existing government to being about radical and progressive changes to society.", "effects": {"right": -1}},
     {"id": 25, "question": "Criminals should be given the right to a fair trial by the government.", "effects": {"auth": -1}},
     {"id": 26, "question": "The government should provide emergency services and law enforcement.", "effects": {"auth": 1}},
     {"id": 27, "question": "The government should get rid of police.", "effects": {"auth": -1}},
@@ -40,5 +40,5 @@ questions =  [
     {"id": 38, "question": "The government should ban drugs.", "effects": {"prog": -1, "auth": 1}},
     {"id": 39, "question": "The government should punish whistleblowers who leak confidential government information.", "effects": {"auth": 1}},
     {"id": 40, "question": "The government should enforce a system of racial hierarchy such as segregation, apartheid, or slavery.", "effects": {"prog": -1, "auth": 1}},
-    {"id": 41, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 1}},
+    {"id": 41, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 1}}
 ];
