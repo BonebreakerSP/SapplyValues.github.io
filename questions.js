@@ -44,6 +44,7 @@ questions =  [
     {"id": 42, "question": "The government should prosecute hate speech against minorities.", "effects": {"auth": 1}},
     {"id": 43, "question": "The government should punish whistleblowers who leak confidential government information.", "effects": {"auth": 1}},
     {"id": 44, "question": "The government should enforce a system of racial hierarchy such as segregation, apartheid, or slavery.", "effects": {"prog": -3, "auth": 3}},
-    {"id": 45, "question": "The government should enforce a system of political, social, and economic hierarchy where the lowest class is owned and dependent on a higher class and required to work for them, with the ruling class being a monarch who heads the system.", "effects": {"auth": 1, "right": 1}},
-    {"id": 46, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 1}}
+    {"id": 45, "question": "The government should exterminate racial, religious, and/or social minorities.", "effects": {"prog": -3, "auth": 3}},
+    {"id": 46, "question": "The government should enforce a system of political, social, and economic hierarchy where the lowest class is owned and dependent on a higher class and required to work for them, with the ruling class being a monarch who heads the system.", "effects": {"auth": 1, "right": 1}},
+    {"id": 47, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 1}}
 ];
