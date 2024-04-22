@@ -61,8 +61,8 @@ questions =  [
     {"id": 59, "question": "The government should have an informant system so that any anti government activities are punished.", "effects": {"auth": 3}},
     {"id": 60, "question": "The government should recognize the right to protest.", "effects": {"auth": -1}},
     {"id": 61, "question": "The government should violently shut down a peaceful protest with force.", "effects": {"auth": 1}},
-    {"id": 62, "question": "The government should ban books discussing the civil rights movement and its leaders as well as books discussing the history of African slavery from schools.", "effects": {"auth": 1}},
-    {"id": 63, "question": "The government should ban books discussing sexuality and gender identity from schools.", "effects": {"auth": -1}},
+    {"id": 62, "question": "The government should ban books discussing the civil rights movement and its leaders as well as books discussing the history of African slavery from schools.", "effects": {"auth": 1, "prog": -1, "right": 1}},
+    {"id": 63, "question": "The government should ban books discussing sexuality and gender identity from schools.", "effects": {"auth": 1, "prog": -1}},
     {"id": 64, "question": "The government should allow citizens the right to vote in yearly referendums on policy issues.", "effects": {"auth": -1}},
     {"id": 65, "question": "The government should have multiple heads of state rather than a singular head of state/president/prime minister.", "effects": {"auth": -1}}
 ];
