@@ -62,13 +62,14 @@ questions =  [
     {"id": 60, "question": "The government should exterminate racial, religious, and/or social minorities.", "effects": {"prog": -3, "auth": 3}},
     {"id": 61, "question": "The government should enforce a system of political, social, and economic hierarchy where the lowest class is owned and dependent on a higher class and required to work for them, with the ruling class being a monarch who heads the system.", "effects": {"auth": 1, "right": 1}},
     {"id": 62, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 1}},
-    {"id": 63, "question": "Labour or concentration camps should be enforced by the government as a form of punishment.", "effects": {"auth": 3}},
-    {"id": 64, "question": "The government should have an informant system so that any anti government activities are punished.", "effects": {"auth": 3}},
-    {"id": 65, "question": "The government should recognize the right to protest.", "effects": {"auth": -1}},
-    {"id": 66, "question": "The government should violently shut down a peaceful protest with force.", "effects": {"auth": 1}},
-    {"id": 67, "question": "The government should ban books discussing the civil rights movement and its leaders as well as books discussing the history of African slavery from schools.", "effects": {"auth": 1, "prog": -1, "right": 1}},
-    {"id": 68, "question": "The government should ban books discussing sexuality and gender identity from schools.", "effects": {"auth": 1, "prog": -1}},
-    {"id": 69, "question": "The government should allow citizens the right to vote in yearly referendums on policy issues.", "effects": {"auth": -1}},
-    {"id": 70, "question": "The government should allow citizens to vote using the Internet.", "effects": {"auth": -1}},  
-    {"id": 71, "question": "The government should have multiple heads of state rather than a singular head of state/president/prime minister.", "effects": {"auth": -1}}
+    {"id": 63, "question": "The government should be a theocracy(system of government led by leaders of a religion).", "effects": {"auth": 3, "right": 3, "prog": -3}},
+    {"id": 64, "question": "Labour or concentration camps should be enforced by the government as a form of punishment.", "effects": {"auth": 3}},
+    {"id": 65, "question": "The government should have an informant system so that any anti government activities are punished.", "effects": {"auth": 3}},
+    {"id": 66, "question": "The government should recognize the right to protest.", "effects": {"auth": -1}},
+    {"id": 67, "question": "The government should violently shut down a peaceful protest with force.", "effects": {"auth": 1}},
+    {"id": 68, "question": "The government should ban books discussing the civil rights movement and its leaders as well as books discussing the history of African slavery from schools.", "effects": {"auth": 1, "prog": -1, "right": 1}},
+    {"id": 69, "question": "The government should ban books discussing sexuality and gender identity from schools.", "effects": {"auth": 1, "prog": -1}},
+    {"id": 70, "question": "The government should allow citizens the right to vote in yearly referendums on policy issues.", "effects": {"auth": -1}},
+    {"id": 71, "question": "The government should allow citizens to vote using the Internet.", "effects": {"auth": -1}},
+    {"id": 72, "question": "The government should have multiple heads of state rather than a singular head of state/president/prime minister.", "effects": {"auth": -1}}
 ];
