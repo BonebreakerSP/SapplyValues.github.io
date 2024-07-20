@@ -86,6 +86,6 @@ questions =  [
     {"id": 84, "question": "The government should allow citizens to vote using the Internet.", "effects": {"auth": -1}},
     {"id": 85, "question": "The government should allow citizens to vote through ballots sent via mail.", "effects": {"auth": -1}},
     {"id": 86, "question": "The government should have multiple heads of state rather than a singular head of state/president/prime minister.", "effects": {"auth": -1}},
-    {"id": 87, "question": "The government should set term limits on members of the legislature.", "effects": {"auth": -1}}        
+    {"id": 87, "question": "The government should set term limits on members of the legislature.", "effects": {"auth": -1}},        
     {"id": 88, "question": "The government should ban legislative members from owning stocks.", "effects": {"auth": -1}}                                                                                                                                
 ];
