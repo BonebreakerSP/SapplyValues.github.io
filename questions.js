@@ -89,4 +89,3 @@ questions =  [
     {"id": 87, "question": "The government should set term limits on members of the legislature.", "effects": {"auth": -1}}        
     {"id": 88, "question": "The government should ban legislative members from owning stocks.", "effects": {"auth": -1}}                                                                                                                                
 ];
-];
