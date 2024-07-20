@@ -43,7 +43,7 @@ questions =  [
     {"id": 41, "question": "When a pandemic happens, the government should institute mask and vaccine mandates.", "effects": {"auth": 1}},
     {"id": 42, "question": "The government should be less involved in the day to day life of its citizens.", "effects": {"auth": -1}},
     {"id": 43, "question": "Monarchical governments are better than democratic governments.", "effects": {"auth": 1, "right": 1}},
-    {"id": 44, "question": "A violent revolution should be enacted to overthrow an existing government to being about radical and progressive changes to society.", "effects": {"right": -3}},
+    {"id": 44, "question": "A violent revolution should be enacted to overthrow an existing government to being about radical and progressive changes to society.", "effects": {"auth": 3,"right": -3}},
     {"id": 45, "question": "The government should be a one party vanguard, also known as dictatorship of the proletariat, with the goal of instituting socialism.", "effects": {"auth": 3, "right": -3}},
     {"id": 46, "question": "Criminals should be given the right to a fair trial by the government.", "effects": {"auth": -1}},
     {"id": 47, "question": "The government should provide emergency services and law enforcement.", "effects": {"auth": 1}},
