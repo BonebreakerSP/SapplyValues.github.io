@@ -83,5 +83,6 @@ questions =  [
     {"id": 81, "question": "The government should allow women the right to vote.", "effects": {"auth": -3}},
     {"id": 82, "question": "The government should allow citizens the right to vote in yearly referendums on policies.", "effects": {"auth": -1}},
     {"id": 83, "question": "The government should allow citizens to vote using the Internet.", "effects": {"auth": -1}},
-    {"id": 84, "question": "The government should have multiple heads of state rather than a singular head of state/president/prime minister.", "effects": {"auth": -1}}                                                                                                                                
+    {"id": 84, "question": "The government should allow citizens to vote through ballots sent via mail.", "effects": {"auth": -1}},
+    {"id": 85, "question": "The government should have multiple heads of state rather than a singular head of state/president/prime minister.", "effects": {"auth": -1}}                                                                                                                                
 ];
