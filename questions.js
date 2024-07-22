@@ -81,12 +81,13 @@ questions =  [
     {"id": 79, "question": "The government should violently shut down a peaceful protest with force.", "effects": {"auth": 1}},
     {"id": 80, "question": "The government should ban books discussing the civil rights movement and its leaders as well as books discussing the history of African slavery from schools.", "effects": {"auth": 1, "prog": -1, "right": 1}},
     {"id": 81, "question": "The government should ban evolution being taught in schools.", "effects": {"auth": 3, "prog": -3}},
-    {"id": 82, "question": "The government should ban books discussing sexuality and gender identity from schools.", "effects": {"auth": 1, "prog": -1}},
-    {"id": 83, "question": "The government should allow women the right to vote.", "effects": {"auth": -3}},
-    {"id": 84, "question": "The government should allow citizens the right to vote in yearly referendums on policies.", "effects": {"auth": -1}},
-    {"id": 85, "question": "The government should allow citizens to vote using the Internet.", "effects": {"auth": -1}},
-    {"id": 86, "question": "The government should allow citizens to vote through ballots sent via mail.", "effects": {"auth": -1}},
-    {"id": 87, "question": "The government should have multiple heads of state rather than a singular head of state/president/prime minister.", "effects": {"auth": -1}},
-    {"id": 88, "question": "The government should set term limits on members of the legislature.", "effects": {"auth": -1}},        
-    {"id": 89, "question": "The government should ban legislative members from owning stocks.", "effects": {"auth": -1}}                                                                                                                                
+    {"id": 82, "question": "The government should pass a resolution recognizing only 2 genders.", "effects": {"auth": 3, "prog": -3}},
+    {"id": 83, "question": "The government should ban books discussing sexuality and gender identity from schools.", "effects": {"auth": 1, "prog": -1}},
+    {"id": 84, "question": "The government should allow women the right to vote.", "effects": {"auth": -3}},
+    {"id": 85, "question": "The government should allow citizens the right to vote in yearly referendums on policies.", "effects": {"auth": -1}},
+    {"id": 86, "question": "The government should allow citizens to vote using the Internet.", "effects": {"auth": -1}},
+    {"id": 87, "question": "The government should allow citizens to vote through ballots sent via mail.", "effects": {"auth": -1}},
+    {"id": 88, "question": "The government should have multiple heads of state rather than a singular head of state/president/prime minister.", "effects": {"auth": -1}},
+    {"id": 89, "question": "The government should set term limits on members of the legislature.", "effects": {"auth": -1}},        
+    {"id": 90, "question": "The government should ban legislative members from owning stocks.", "effects": {"auth": -1}}                                                                                                                                
 ];
