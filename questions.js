@@ -72,7 +72,7 @@ questions =  [
     {"id": 70, "question": "The government should allow children to do whatever with their bodies, such as undergoing puberty blockers, hormone treatments, tattoos, piercings, or plastic surgery.", "effects": {"prog": 1}},
     {"id": 71, "question": "The government should ban gay marriage.", "effects": {"prog": -3, "auth": 3}},
     {"id": 72, "question": "The government should not be involved in any and all marriages regardless if they are gay or straight ones.", "effects": {"auth": -1}},
-    {"id": 73, "question": "The government should not allow the changing of someone's legal gender to a different one on their birth certificate.", "effects": {"prog": -1, "auth": 1}},
+    {"id": 73, "question": "The government should not allow the changing of someone's legal gender to a different one on their birth certificate.", "effects": {"prog": -3, "auth": 3}},
     {"id": 74, "question": "The government should ban or restrict drugs.", "effects": {"prog": -1, "auth": 1, "right": -1}},
     {"id": 75, "question": "The government should ban prostitution.", "effects": {"prog": -1, "auth": 1, "right": -1}},
     {"id": 76, "question": "The government should ban pornography.", "effects": {"prog": -1, "auth": 1, "right": -1}},
