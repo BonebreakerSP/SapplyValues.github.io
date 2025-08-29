@@ -98,6 +98,6 @@ questions =  [
     {"id": 96, "question": "The government should have multiple heads of state rather than a singular head of state/president/prime minister.", "effects": {"auth": -1}},
     {"id": 97, "question": "The government should set term limits on members of the legislature.", "effects": {"auth": -1}},        
     {"id": 98, "question": "The government should ban legislative members from owning stocks.", "effects": {"auth": -1}},    
-    {"id": 99, "question": "The government should ban citizens from having in public flags like the Confederate flag and Nazi flag due to their offensive racial ties.", "effects": {"auth": 2, "prog": 2, "right": -2}}                                                                                                                                
-
+    {"id": 99, "question": "The government should ban citizens from having in public flags like the Confederate flag and Nazi flag due to their offensive racial ties.", "effects": {"auth": 2, "prog": 2, "right": -2}},    
+    {"id": 100, "question": "The government should ban businesses from excluding services from people based on race, gender, and sexuality.", "effects": {"auth": 2, "prog": 2, "right": -2}}      
 ];
