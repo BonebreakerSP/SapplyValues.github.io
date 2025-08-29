@@ -76,7 +76,7 @@ questions =  [
     {"id": 74, "question": "The government should ban or restrict guns.", "effects": {"auth": 1, "right": -1}},
     {"id": 75, "question": "The government should ban or restrict immigration.", "effects": {"auth": 3, "prog": -3}},
     {"id": 76, "question": "The government should remove children not born in the country and send them back to their birth country.", "effects": {"auth": 3, "prog": -3}},
-    {"id": 77, "question": "The government should prosecute hate speech against minorities.", "effects": {"auth": 1}},
+    {"id": 77, "question": "The government should prosecute hate speech against minorities.", "effects": {"auth": 2, "prog": 2, "right": -2}},
     {"id": 78, "question": "The government should punish whistleblowers who leak confidential government information.", "effects": {"auth": 1}},
     {"id": 79, "question": "The government should enforce a system of racial hierarchy such as segregation, apartheid, or slavery.", "effects": {"prog": -3, "auth": 3, "right": 3}},
     {"id": 80, "question": "The government should exterminate racial, religious, and/or social minorities.", "effects": {"prog": -3, "auth": 3}},
