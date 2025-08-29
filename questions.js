@@ -95,7 +95,7 @@ questions =  [
     {"id": 93, "question": "The government should have an informant system so that any anti government activities are punished.", "effects": {"auth": 3}},
     {"id": 94, "question": "The government should recognize the right to protest.", "effects": {"auth": -1}},
     {"id": 95, "question": "The government should violently shut down a peaceful protest with force.", "effects": {"auth": 1}},
-    {"id": 96, "question": "The government should ban books discussing the civil rights movement and its leaders as well as books discussing the history of African slavery from schools.", "effects": {"auth": 1, "prog": -1, "right": 1}},
+    {"id": 96, "question": "The government should ban books discussing the civil rights movement and its leaders as well as books discussing the history of African slavery from schools.", "effects": {"auth": 3, "prog": -3, "right": 3}},
     {"id": 97, "question": "The government should ban evolution being taught in schools.", "effects": {"auth": 3, "prog": -3}},
     {"id": 98, "question": "The government should pass a resolution recognizing only 2 genders.", "effects": {"auth": 3, "prog": -3}},
     {"id": 99, "question": "The government should ban books discussing sexuality and gender identity from schools.", "effects": {"auth": 3, "prog": -3}},
