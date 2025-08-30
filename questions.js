@@ -113,6 +113,6 @@ questions =  [
     {"id": 111, "question": "The government should ban businesses from firing employees based on religion, race, gender, or sexuality.", "effects": {"auth": 2, "prog": 2, "right": -2}},
     {"id": 112, "question": "The government should punish educational institutions for promoting LGBT views on sexuality and gender.", "effects": {"auth": 3, "prog": -3, "right": 3}},
     {"id": 113, "question": "The government should suspend all laws and the constitution in response to a perceived threat to protect the country.", "effects": {"auth": 5}},
-    {"id": 114, "question": "The government should suspend build a border wall to restrict illegal immigration into the country.", "effects": {"auth": 5, "prog": -5, "right": 5}},
-    {"id": 115, "question": "The government should ban pride marches.", "effects": {"auth": 3, "prog": -3, "right": 3}}
+    {"id": 114, "question": "The government should suspend build a border wall to restrict illegal immigration into the country.", "effects": {"auth": 3, "prog": -3, "right": 3}},
+    {"id": 115, "question": "The government should ban pride marches.", "effects": {"auth": 5, "prog": -5, "right": 5}}
 ];
