@@ -103,12 +103,14 @@ questions =  [
     {"id": 101, "question": "The government should allow citizens the right to vote in yearly referendums on policies.", "effects": {"auth": -1}},
     {"id": 102, "question": "The government should allow citizens to vote using the Internet.", "effects": {"auth": -2}},
     {"id": 103, "question": "The government should allow citizens to vote through ballots sent via mail.", "effects": {"auth": -1}},
-    {"id": 104, "question": "The government should have multiple heads of state rather than a singular head of state/president/prime minister.", "effects": {"auth": -3}},
+    {"id": 104, "question": "The government should have multiple heads of state rather than a singular head of state/president/prime minister.", "effects": {"auth": -5}},
     {"id": 105, "question": "The government should set term limits on members of the legislature.", "effects": {"auth": -1}},        
     {"id": 106, "question": "The government should ban legislative members from owning stocks.", "effects": {"auth": -1}},    
     {"id": 107, "question": "The government should ban citizens from having in public flags like the Confederate flag and Nazi flag due to their offensive racial ties.", "effects": {"auth": 2, "prog": 2, "right": -2}}, 
     {"id": 108, "question": "The government should ban businesses from excluding services from people based on race, gender, and sexuality.", "effects": {"auth": 2, "prog": 2, "right": -2}}, 
     {"id": 109, "question": "The government should ban colleges from using affirmative action in admissions.", "effects": {"auth": 2, "prog": -2, "right": 2}},
     {"id": 110, "question": "The government should ban surgery on intersex infants.", "effects": {"auth": 2, "prog": 2, "right": -2}},
-    {"id": 111, "question": "The government should ban businesses from firing employees based on religion, race, gender, or sexuality.", "effects": {"auth": 2, "prog": 2, "right": -2}} 
+    {"id": 111, "question": "The government should ban businesses from firing employees based on religion, race, gender, or sexuality.", "effects": {"auth": 2, "prog": 2, "right": -2}},
+    {"id": 112, "question": "The government should punish educational institutions for promoting LGBT views on sexuality and gender.", "effects": {"auth": 3, "prog": -3, "right": 3}},
+    {"id": 113, "question": "The government should suspend all laws and the constitution in response to a perceived threat to protect the country.", "effects": {"auth": 5}},
 ];
