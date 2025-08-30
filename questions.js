@@ -4,7 +4,7 @@ questions =  [
     {"id": 2, "question": "The government should limit CEO pay so it does not exceed a certain ratio compared to average worker pay.", "effects": {"right": -1, "auth": 1}},
     {"id": 3, "question": "The government should put a cap on banker bonus pay.", "effects": {"right": -1, "auth": 1}},
     {"id": 4, "question": "The government should mandate businesses adopt a 4 day work week.", "effects": {"right": -1, "auth": 1}},
-    {"id": 5, "question": "The ideal form of society is one without government, money, social classes, and private property.", "effects": {"right": -3}},
+    {"id": 5, "question": "The ideal form of society is one without government, money, social classes, and private property.", "effects": {"right": -10, "auth": -10}},
     {"id": 6, "question": "The government should tax the wealthy to reduce inequality.", "effects": {"right": -1, "auth": 1}},
     {"id": 7, "question": "The government should tax corporations based on the quantity of carbon emissions they produce.", "effects": {"right": -1, "auth": 1}},
     {"id": 8, "question": "A universal basic income administered by the government is a good idea.", "effects": {"right": -1, "auth": 1}},
@@ -112,11 +112,12 @@ questions =  [
     {"id": 110, "question": "The government should ban surgery on intersex infants.", "effects": {"auth": 2, "prog": 2, "right": -2}},
     {"id": 111, "question": "The government should ban businesses from firing employees based on religion, race, gender, or sexuality.", "effects": {"auth": 2, "prog": 2, "right": -2}},
     {"id": 112, "question": "The government should punish educational institutions for promoting LGBT views on sexuality and gender.", "effects": {"auth": 3, "prog": -3, "right": 3}},
-    {"id": 113, "question": "The government should suspend all laws and the constitution in response to a perceived threat to protect the country.", "effects": {"auth": 5}},
-    {"id": 114, "question": "The government should suspend build a border wall to restrict illegal immigration into the country.", "effects": {"auth": 3, "prog": -3, "right": 3}},
+    {"id": 113, "question": "The government should suspend all laws and the constitution in response to a perceived threat to protect the country.", "effects": {"auth": 10}},
+    {"id": 114, "question": "The government should build a border wall to restrict illegal immigration into the country.", "effects": {"auth": 3, "prog": -3, "right": 3}},
     {"id": 115, "question": "The government should ban pride marches.", "effects": {"auth": 5, "prog": -5, "right": 5}},
     {"id": 116, "question": "The government should not adhere to and withdraw from climate change agreements.", "effects": {"auth": 5, "prog": -5, "right": 5}},
     {"id": 117, "question": "The government should be completely abolished. Police, military, all the branches, all government social programs, and discrimination protections.", "effects": {"auth": -10, "prog": -10, "right": 10}},
     {"id": 118, "question": "The government should censor online and public content promoting childless lifestyles.", "effects": {"auth": 5, "prog": -5, "right": 5}},
-    {"id": 119, "question": "The government should ban no fault divorce(divorce without a reason) or divorce completely.", "effects": {"auth": 5, "prog": -5, "right": 5}}                                                                                                                                                                                 
+    {"id": 119, "question": "The government should ban no fault divorce(divorce without a reason) or divorce completely.", "effects": {"auth": 5, "prog": -5, "right": 5}}
+    {"id": 120, "question": "The government should require teachers to tell parents if their child is using a different name and pronouns from what they were given.", "effects": {"auth": 5, "prog": -5, "right": 5}}
 ];
