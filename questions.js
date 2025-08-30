@@ -116,4 +116,5 @@ questions =  [
     {"id": 114, "question": "The government should suspend build a border wall to restrict illegal immigration into the country.", "effects": {"auth": 3, "prog": -3, "right": 3}},
     {"id": 115, "question": "The government should ban pride marches.", "effects": {"auth": 5, "prog": -5, "right": 5}},
     {"id": 116, "question": "The government should not adhere to and withdraw from climate change agreements.", "effects": {"auth": 5, "prog": -5, "right": 5}}
+    {"id": 117, "question": "The government should be completely abolished. Police, military, all the branches, all government social programs, and discrimination protections.", "effects": {"auth": -10, "prog": -10, "right": 10}}
 ];
