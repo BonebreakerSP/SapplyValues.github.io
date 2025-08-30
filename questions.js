@@ -117,5 +117,6 @@ questions =  [
     {"id": 115, "question": "The government should ban pride marches.", "effects": {"auth": 5, "prog": -5, "right": 5}},
     {"id": 116, "question": "The government should not adhere to and withdraw from climate change agreements.", "effects": {"auth": 5, "prog": -5, "right": 5}},
     {"id": 117, "question": "The government should be completely abolished. Police, military, all the branches, all government social programs, and discrimination protections.", "effects": {"auth": -10, "prog": -10, "right": 10}},
-    {"id": 118, "question": "The government should censor online and public content promoting childless lifestyles.", "effects": {"auth": 5, "prog": -5, "right": 5}}                                                                                                                                                                                 
+    {"id": 118, "question": "The government should censor online and public content promoting childless lifestyles.", "effects": {"auth": 5, "prog": -5, "right": 5}},
+    {"id": 119, "question": "The government should ban no fault divorce(divorce without a reason) or divorce completely.", "effects": {"auth": 5, "prog": -5, "right": 5}}                                                                                                                                                                                 
 ];
