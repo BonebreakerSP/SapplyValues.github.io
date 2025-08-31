@@ -85,7 +85,7 @@ questions =  [
     {"id": 83, "question": "The government should punish whistleblowers who leak confidential government information.", "effects": {"auth": 1}},
     {"id": 84, "question": "The government should enforce a system of racial hierarchy such as segregation, apartheid, or slavery.", "effects": {"prog": -3, "auth": 3, "right": 3}},
     {"id": 85, "question": "The government should exterminate racial, religious, and/or social minorities.", "effects": {"prog": -3, "auth": 3}},
-    {"id": 86, "question": "The government should enforce a system of political, social, and economic hierarchy where the lowest class is owned and dependent on a higher class and required to work for them, with the ruling class being a monarch who heads the system.", "effects": {"auth": 1, "right": 1}},
+    {"id": 86, "question": "The government should enforce a system of political, social, and economic hierarchy where the lowest class is owned and dependent on a higher class and required to work for them, with the ruling class being a monarch who heads the system.", "effects": {"auth": 5, "right": 5}},
     {"id": 87, "question": "The death penalty should be enforced by the government as a form of punishment.", "effects": {"auth": 2}},
     {"id": 88, "question": "The goverment should reform prisons to allow weekday only imprisonment.", "effects": {"auth": -3}},
     {"id": 89, "question": "The goverment should allow prisoners to leave prison temporarily for a few hours a day to pursue education and/or work.", "effects": {"auth": -3}},
