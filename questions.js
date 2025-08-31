@@ -14,7 +14,7 @@ questions =  [
     {"id": 12, "question": "Banks should be government owned.", "effects": {"right": -1, "auth": 1}},
     {"id": 13, "question": "Utilities, like water and electricity should be government owned.", "effects": {"right": -2, "auth": 1}},
     {"id": 14, "question": "Prisons should be government owned and not privately owned.", "effects": {"right": -2, "auth": 1}},
-    {"id": 15, "question": "Pharmacies should be government owned to reduce drug costs.", "effects": {"right": -2, "auth": 1}},
+    {"id": 15, "question": "Pharmacies should be government owned to reduce drug costs.", "effects": {"right": -3, "auth": 1}},
     {"id": 16, "question": "Retail firms like Amazon should be government owned.", "effects": {"right": -2, "auth": 1}},
     {"id": 17, "question": "Manufacturing firms should be government owned.", "effects": {"right": -2, "auth": 1}},
     {"id": 18, "question": "The goverment should relinquish state ownership of roads and privatize them.", "effects": {"right": 2, "auth": -2}},
